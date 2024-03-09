@@ -1,55 +1,69 @@
-<!--- - 👋 Hi, I’m @rahul-thatipamula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-rahul-thatipamula/rahul-thatipamula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-                                           Rahul Thatipamula's GitHub Profile
+<div align="center">
+  <a href="www.linkedin.com/in/rahul-thatipamula" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://www.instagram.com/rahul_thatipamula?igsh=MTRmY2k4Nm5lMm5iYQ==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-Hello, World! 👋
+###
 
-Welcome to my GitHub profile! I'm Rahul Thatipamula, a passionate software developer and open source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, fork, and contribute!
+<h1 align="center">hey there 👋</h1>
 
-About Me
+###
 
-A little bit about myself:
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-💼 Student
+<p align="left">I'm Rahul<br><br>- 🔭 I’m  a Student<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I spend time on coding and finding new technology.</p>
 
-🌱 I’m currently learning Java and improving my skills.
+###
 
-💬 Ask me about java, c, html and css.
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-Projects
+<h3 align="left">🔥   My Stats :</h3>
 
-Here are some highlighted projects you might be interested in:
+###
 
-Student Bio Data - A simple GUI application developed using Swing(Java).
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-thatipamula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thatipamula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-Eamcet -A simple GUI Application developed using Swing(Java).
+###
 
-<!--- Portfolio Website - My personal portfolio website showcasing my work and skills. --->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rahul-thatipamula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-Get in Touch
+###
 
-LinkedIn: www.linkedin.com/in/rahul-thatipamula
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahul-thatipamula/count.svg?"  />
+</div>
 
+###
 
-Support
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-If you find my projects or contributions helpful, consider buying me a coffee! ☕️
-
-
-
-Thank You
-
-Thank you for visiting my GitHub profile! Don't hesitate to reach out if you have any questions or just want to say hi. 😊
+###
