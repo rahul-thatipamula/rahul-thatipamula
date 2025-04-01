@@ -7,6 +7,14 @@
   </a>
 </div>
 
+## 🌐 Portfolio  : 
+<div align="left">
+  <a href="https://happy-bush-016d56d00.4.azurestaticapps.net/" target="_blank">
+    rahul thatipamula
+  </a>
+</div>
+
+
 ###
 
 <h1 align="center">Hey there 👋</h1>
@@ -18,10 +26,14 @@
 ###
 <p align="left">
     My name is Rahul.<br><br>
-    - 🔭 I am a dedicated student.<br>
-    - 📚 Currently, I am enhancing my skills in Flutter and Spring.<br>
-    - ⚡ In my free time, I enjoy coding and exploring new technologies.
+    - 💻 Passionate software developer with expertise in Flutter, Spring, Spring Boot, and Node.js.<br>
+    - 💼 I worked as a Mobile Flutter Developer intern at Rablo.<br>
+    - 🚀 I am working on a bank application with innovative features.<br>
+    - 🌐 I have experience in React, JavaScript, and Firebase, where I participated in hackathons and developed websites using React and     Node.js.<br>
+    - 🏋️‍♂️ I go to the gym and focus on maintaining a fit and healthy body.<br>
+    - ⚡ In my free time, I enjoy coding and exploring new technologies.<br>
 </p>
+
 
 ###
 
@@ -43,7 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
+
 
 ###
 
@@ -52,14 +67,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
+
 
 ###
 
