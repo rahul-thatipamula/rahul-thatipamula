@@ -15,11 +15,21 @@
 </div>
 
 
+
+
 ###
 
 <h1 align="center">Hey there 👋</h1>
 
 ###
+
+## 🔗 GitHub  
+<div align="left">
+  🚀 Explore my repositories on GitHub:  
+  <a href="https://github.com/rahul-thatipamula-19" target="_blank">
+  rahul-thatipamula-19
+  </a>
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
