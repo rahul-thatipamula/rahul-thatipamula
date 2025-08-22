@@ -1,3 +1,10 @@
+
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/rahul-thatipamula" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -16,12 +23,6 @@
 
 
 
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
 
 ## 🔗 GitHub  
 <div align="left">
