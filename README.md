@@ -14,23 +14,6 @@
   </a>
 </div>
 
-## 🌐 Portfolio  : 
-<div align="left">
-  <a href="https://rahul-thatipamula.axiviontech.com" target="_blank">
-    rahul thatipamula
-  </a>
-</div>
-
-
-
-
-## 🔗 GitHub  
-<div align="left">
-  🚀 Explore my repositories on GitHub:  
-  <a href="https://github.com/rahul-thatipamula-19" target="_blank">
-  rahul-thatipamula-19
-  </a>
-</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -106,7 +89,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thatipamula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-thatipamula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
-
+## 🌐 Portfolio  : 
+<div align="left">
+  <a href="https://rahul-thatipamula.axiviontech.com" target="_blank">
+    rahul thatipamula
+  </a>
+</div>
 ###
 
 <div align="center">
