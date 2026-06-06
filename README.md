@@ -20,8 +20,8 @@
 
 <p align="left">
     My name is Rahul Thatipamula.<br><br>
-    - 🎓 B.Tech CSE student at SNIST, specializing in Cybersecurity (CGPA: 8.81/10).<br>
-    - 💼 Currently a Systems Engineer Intern (Big Data) at Infosys, working with Python, PySpark, and Power BI.<br>
+    - 🎓 B.Tech CSE student at SNIST, specializing in Cybersecurity (CGPA: 8.79/10).<br>
+    - 💼 Was a Systems Engineer Intern (Big Data) at Infosys, working with Python, PySpark, and Power BI.<br>
     - 📱 Former Mobile Application Developer Intern & Team Lead at Rablo — led a team, shipped two production Flutter apps.<br>
     - 🚀 Built Vortex Pay, a full-stack digital wallet with UPI-style transfers, QR payments, and ACID-compliant concurrency using Spring Boot & React.<br>
     - 🌐 Published CAX on Google Play Store — a cross-platform student engagement platform with 100+ active users.<br>
