@@ -21,7 +21,7 @@ I build secure, scalable software end to end — Spring Boot backends, Flutter a
 
 ```yaml
 name:      Rahul Thatipamula
-education: B.Tech CSE (Cybersecurity) @ Sreenidhi Institute of Science & Technology
+education: B.Tech CSE (Cybersecurity)
 location:  Hyderabad, India
 focus:     [ backend systems, mobile development, security, distributed data ]
 currently: building CAX — a student engagement platform live on Google Play
