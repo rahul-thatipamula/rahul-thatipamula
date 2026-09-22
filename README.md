@@ -4,7 +4,7 @@
 
 **B.Tech CSE @ SNIST · Cybersecurity specialization**
 
-I build secure, scalable software end to end — Spring Boot backends, Flutter apps, and data pipelines.
+I build backends that hold up under load and mobile apps that ship. Spring Boot, Flutter, and the data pipelines underneath.
 
 <a href="https://portfolio-ten-tawny-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0d?style=for-the-badge&logo=vercel&logoColor=fbbf24" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rahul-thatipamula"><img src="https://img.shields.io/badge/LinkedIn-0a0a0d?style=for-the-badge&logo=linkedin&logoColor=fbbf24" alt="LinkedIn" /></a>
@@ -27,12 +27,12 @@ focus:     [ backend systems, mobile development, security, distributed data ]
 currently: building CAX — a student engagement platform live on Google Play
 ```
 
-- 🎓 **B.Tech CSE** at SNIST with a **Cybersecurity** specialization — CGPA **8.79/10**
-- 💼 **Systems Engineer Intern (Big Data)** at **Infosys** — Python, PySpark, Unix shell, Power BI, MongoDB
-- 📱 **Mobile App Developer Intern & Team Lead** at **Rablo** — shipped 2 production Flutter apps, led and mentored a team of developers with 100% on-time delivery
-- 🌐 Published **CAX** on the Google Play Store — **100+ active users** across student communities
-- 🔐 Interested in secure system design, concurrency, and everything between the API and the database
-- 🏋️ Off-screen: gym, and reading up on whatever tech I haven't broken yet
+- 🎓 **B.Tech CSE, Cybersecurity** at SNIST. CGPA **8.79/10**.
+- 💼 **Systems Engineer Intern, Big Data — Infosys.** Built and ran pipelines in Python and PySpark, with Unix shell, MongoDB, and Power BI on either end.
+- 📱 **Mobile App Developer Intern & Team Lead — Rablo.** Shipped two production Flutter apps and led the team that built them. Every release landed on schedule.
+- 🌐 **Published CAX on the Google Play Store.** It now serves **100+ active users** across student communities.
+- 🔐 My interest sits where the API meets the database: secure system design, concurrency, and the failure modes in between.
+- 🏋️ Away from the keyboard: the gym, and reading up on whatever I haven't broken yet.
 
 ---
 
@@ -40,12 +40,9 @@ currently: building CAX — a student engagement platform live on Google Play
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[CAX](https://play.google.com/store/apps/details?id=com.axiviontech.cax)** | Cross-platform student engagement platform for club and college event management. College-email verification, AWS-hosted backend, live on the Play Store. | `Flutter` `AWS` |
-| **[Recall](https://github.com/rahul-thatipamula/recall-platform)** | A technical recall assessment platform. AI tools shifted learning from active recall to passive recognition — Recall measures and closes that gap instead of handing you the answer. | `TypeScript` |
-| **Vortex Pay** | Full-stack digital wallet — UPI-style transfers, QR payments, real-time notifications. Concurrent transfers survive high load via pessimistic locking with ordered lock acquisition and retries. | `Spring Boot` `React` `PostgreSQL` |
-| **[Habit Flow](https://github.com/rahul-thatipamula/homebrew-habit-flow)** | A simple, elegant habit tracker for macOS, distributed via Homebrew. | `macOS` `Homebrew` |
-| **[CS-Fundamentals](https://github.com/rahul-thatipamula/CS-Fundamentals)** | Structured notes on Operating Systems, Theory of Computation, and DSA — built for revision and interview prep. | `Markdown` |
-| **[Student Biodata System](https://github.com/rahul-thatipamula/student-biodata-system)** | CLI CRUD app on a layered Model–DAO–Service architecture, with parameterized queries against SQL injection. | `Java` `JDBC` `PostgreSQL` |
+| **[CAX](https://play.google.com/store/apps/details?id=com.axiviontech.cax)** | A cross-platform platform for college club and event management, live on the Play Store. College-email verification gates access; an AWS-hosted backend carries the load. | `Flutter` `AWS` |
+| **Vortex Pay** | A full-stack digital wallet with UPI-style transfers, QR payments, and real-time notifications. Concurrent transfers survive peak load through pessimistic locking, ordered lock acquisition, and retries. | `Spring Boot` `React` `PostgreSQL` |
+| **[Student Biodata System](https://github.com/rahul-thatipamula/student-biodata-system)** | A CLI CRUD application on a layered Model–DAO–Service architecture. Every query is parameterized, closing the door on SQL injection. | `Java` `JDBC` `PostgreSQL` |
 
 ---
 
@@ -97,9 +94,9 @@ currently: building CAX — a student engagement platform live on Google Play
 
 ## 🏅 Certifications & Recognition
 
-- 📱 **Google Play Publication** — CAX, 100+ active users
+- 📱 **Google Play publication** — CAX, 100+ active users
 - 🎓 **Udemy** — Flutter & Dart: The Complete Development Bootcamp · MySQL: The Complete Developer's Guide
-- ☕ **HackerRank Certified** — Java (Basic)
+- ☕ **HackerRank certified** — Java (Basic)
 - 💡 **LinkedIn Learning** — HTML & CSS Foundations · JavaScript Essential Training
 
 ---
@@ -108,7 +105,7 @@ currently: building CAX — a student engagement platform live on Google Play
 
 ### Let's build something
 
-Open to backend, mobile, and security roles — and to interesting problems in general.
+Open to backend, mobile, and security roles — and to a good problem in any of them.
 
 <a href="mailto:rahulthatipamula6@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-fbbf24?style=for-the-badge&logo=maildotru&logoColor=0a0a0d" alt="Get in touch" /></a>
 
